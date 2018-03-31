@@ -1,19 +1,16 @@
-# This is a large heading
+# Saurabh Pujar
 
-## This is a smaller heading
+### Geography 
 
-And as **imagination** bodies forth,
-The forms of things *unknown*, the poet’s pen,
-Turns them to shapes and gives to airy nothing,
-A local *habitation* and a **name**.
+I am from Mumbai, India and I currently live in New York, NY.
 
-- This is
-- an unordered
-- list
+### Reading
 
-1. This is
-2. an ordered
-3. list
+Three of my favorite books are:
+
+- *Cosmos* by Carl Sagan
+- *The Selfish Gene* by Richard Dawkins
+- *A Song of Ice and Fire* by GRRM Martin
 
 Here is `some code` in the middle of a sentence.
 
