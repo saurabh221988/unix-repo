@@ -1,0 +1,23 @@
+commit 84983ed6821370b05ea971144db5cfce1bc092e4
+Author: saurabh221988 <ssp437@nyu.edu>
+Date:   Sat Mar 31 11:11:48 2018 -0400
+
+    Ignoring ignoredfile.txt
+
+commit af9604deb9174367d5f8cdeba37d823c7720e490
+Author: saurabh221988 <ssp437@nyu.edu>
+Date:   Sat Mar 31 08:00:13 2018 -0400
+
+    added gitignore
+
+commit dca06d58f4ffab6e3d8b69419ea9bdbf513c4add
+Author: saurabh221988 <ssp437@nyu.edu>
+Date:   Fri Mar 30 17:54:37 2018 -0400
+
+    add two files
+
+commit 31eddd2cf13490c78acb7f956bef2db676a55fa1
+Author: saurabh221988 <ssp437@nyu.edu>
+Date:   Tue Mar 27 22:18:10 2018 -0400
+
+    Added readme.txt
